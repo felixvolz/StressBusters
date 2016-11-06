@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="peroni-download" size="50.000000 30.000000" />
+    <ImageTarget name="redbull-white" size="50.000000 96.129036" />
+    <ImageTarget name="Peroni-white" size="50.000000 157.713501" />
+    <ImageTarget name="asahi-white" size="50.000000 154.086533" />
+    <ImageTarget name="HackathonBusinessCard" size="50.000000 30.500000" />
+    <ImageTarget name="HackathonNameTag" size="50.000000 72.000000" />
+    <ImageTarget name="stones_hires" size="50.000000 35.000000" />
+  </Tracking>
+</QCARConfig>

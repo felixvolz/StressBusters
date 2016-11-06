@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImmersiveHack.CSharp", "ImmersiveHack.CSharp.csproj", "{21A84827-B0F1-BC7F-48D0-5A34C75B6905}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImmersiveHack.CSharp.Editor", "ImmersiveHack.CSharp.Editor.csproj", "{BB3AD369-5DDF-9B94-5723-AC3F28F02F89}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21A84827-B0F1-BC7F-48D0-5A34C75B6905}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21A84827-B0F1-BC7F-48D0-5A34C75B6905}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21A84827-B0F1-BC7F-48D0-5A34C75B6905}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21A84827-B0F1-BC7F-48D0-5A34C75B6905}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB3AD369-5DDF-9B94-5723-AC3F28F02F89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB3AD369-5DDF-9B94-5723-AC3F28F02F89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB3AD369-5DDF-9B94-5723-AC3F28F02F89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB3AD369-5DDF-9B94-5723-AC3F28F02F89}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
